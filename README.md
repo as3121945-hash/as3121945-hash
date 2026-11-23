@@ -23,4 +23,4 @@ the app books a slot with a matching doctor. Built for the Google Solution Chall
 
 ## Contact
 
-ankit@membdel.com
+ankit@membdel.com or as3121945@gmail.com
